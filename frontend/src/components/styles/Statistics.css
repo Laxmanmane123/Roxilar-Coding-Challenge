@@ -1,0 +1,22 @@
+.statistics-cards {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  
+  .statistics-card {
+    flex: 1;
+    margin: 0 10px;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .statistics-card h6 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  

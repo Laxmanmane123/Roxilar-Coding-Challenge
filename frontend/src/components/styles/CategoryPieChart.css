@@ -1,0 +1,13 @@
+.pie-chart-container {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pie-chart-container h6 {
+    text-align: center;
+    color: #333;
+  }
+  
